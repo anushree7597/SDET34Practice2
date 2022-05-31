@@ -29,14 +29,12 @@ import io.qameta.allure.Story;
 public class CreateContactTest extends BaseClass
 {
 	
-	
-	
 	String lastname;
 	ClickOnNewContactPage contactbutton;
 	ContactLastNamePage enterlastcontactname;
 	ContactLastNamePage save;
 
-	// annotations
+	// annotations are used
 	@Test
 	public  void createcontactTest()
 	{
