@@ -28,7 +28,7 @@ import io.qameta.allure.Story;
 
 public class CreateContactTest extends BaseClass
 {
-	
+	//changes
 	String lastname;
 	ClickOnNewContactPage contactbutton;
 	ContactLastNamePage enterlastcontactname;
