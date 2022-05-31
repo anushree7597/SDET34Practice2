@@ -34,7 +34,7 @@ public class CreateContactTest extends BaseClass
 	ContactLastNamePage enterlastcontactname;
 	ContactLastNamePage save;
 
-	// annotations are used
+	// annotations are used here
 	@Test
 	public  void createcontactTest()
 	{
